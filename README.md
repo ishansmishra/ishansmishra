@@ -3,7 +3,7 @@
 Hey, I'm Ishan, currently pursuing my Bachelor's degree majoring in IT from Manipal Jaipur. I like tech,art,memes and other stuff. I am always down to collaborate on projects and other cool ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ishan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ishan-mishra-5339821b4/)](https://www.linkedin.com/in/ishan-mishra-5339821b4/)
-[![Gmail Badge](https://img.shields.io/badge/-ishanmishraglobal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanmishraglobal@gmail.com)](mailto:ishanmishraglobal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Ishan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanmishraglobal@gmail.com)](mailto:ishanmishraglobal@gmail.com)
 
 ## ⚡ Technologies (I'm confident enough to post)
 
@@ -15,6 +15,11 @@ Hey, I'm Ishan, currently pursuing my Bachelor's degree majoring in IT from Mani
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=legitishan&count_private=true&show_icons=true&include_all_commits=true)
+ 
+ 
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legitishan&hide=TeX&layout=compact)
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=legitishan.legitishan)
