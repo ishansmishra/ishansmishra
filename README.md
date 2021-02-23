@@ -15,6 +15,7 @@ Hey, I'm Ishan, currently pursuing my Bachelor's degree majoring in IT from Mani
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=legitishan&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legitishan&hide=TeX&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legitishan&hide=TeX&layout=compact&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=legitishan.legitishan)
