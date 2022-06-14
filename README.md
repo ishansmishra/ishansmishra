@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/legitishan/legitishan/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/legitishan/legitishan/master/wave.gif" width="10px">
 
 Hey, I'm Ishan, currently pursuing my Bachelor's degree majoring in IT from Manipal Jaipur. I like tech,art,memes and other stuff. I am always down to collaborate on projects and other cool ideas. Feel free to connect with me here:
 
