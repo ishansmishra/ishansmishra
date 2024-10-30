@@ -8,8 +8,8 @@ Hey, I'm Ishan, I graduated from Manipal Jaipur, I do research @XuLabs at CMU, I
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=legitishan&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ishansmishra&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=legitishan&hide=TeX&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishansmishra&hide=TeX&layout=compact&theme=radical)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=legitishan.legitishan)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ishansmishra.ishansmishra)
